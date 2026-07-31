@@ -9,5 +9,5 @@
 # Karam Dosa
 * Dosa Batter
 * Batter Added
-* Masala Added for Karam
+* Karam Added for Karam
 * Oil aswell
