@@ -16,3 +16,5 @@
 # Egg Dosa
 * added Batter
 * Added Egg
+* added 2 eggs and onions
+* added oil aswell
