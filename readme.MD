@@ -12,3 +12,7 @@
 * Karam Added for Karam
 * Oil aswell
 * Added Onions
+
+# Egg Dosa
+* added Batter
+* Added Egg
